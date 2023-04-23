@@ -1,3 +1,8 @@
+# Gaming Tournaments
+
+<img width="1202" alt="Captura de Tela 2023-04-23 às 23 46 43" src="https://user-images.githubusercontent.com/29484089/233867953-6dd83f5d-6737-4bb3-a4e5-fb68217559e8.png">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
